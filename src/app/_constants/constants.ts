@@ -1,3 +1,4 @@
 export const Constants = {
-    NAME: 'shared lib'
+    NAME: 'shared lib',
+    ENV: 'development',
 }
